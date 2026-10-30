@@ -1,0 +1,52 @@
+{
+ "work": "連歌本式",
+ "work_id": "gunsho10-renga-honshiki",
+ "repo": "kumoi-no-fumigura/renga-honshiki",
+ "yomi": "れんがほんしき",
+ "category": "歌学書",
+ "description": null,
+ "editions": [
+  {
+   "pid": "1879527",
+   "title": "群書類従 第十輯",
+   "editor": "塙保己一 編",
+   "series": "",
+   "publisher": "経済雑誌社",
+   "year": 1900,
+   "pages": "p562-562",
+   "url": "https://dl.ndl.go.jp/pid/1879527"
+  }
+ ],
+ "status": "未校正（NDL 全文 OCR のまま。ルビ・柱・誤認識を含む）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "translation": null,
+ "blocks": [
+  {
+   "id": "gunsho10-renga-honshiki-0001",
+   "pid": "1879527",
+   "pages": [
+    562
+   ],
+   "text": "連歌本式〔舊本行書躰〕一面十句。每句。發句の賦物に合せてすべし。一賦物。むかしは每句に取樣にあり。一說には脇第三までとい(り)一面に名所をなすべし。名所と名所五句去なり。一季は五句去。但此うち他の季なくは。二十句へだてゝも。季はならす。一月。花。松。夢。涙。船。竹。煙。各十句可去。一景物ならべて。三句すべからず。打越にも不可爲。雪。月。花。郭公。寐覺を景物といふ也。一降物と降物可嫌打越。一變物同。一草木同。一郭公。寐覺。景物に用之。一槇。檜原。關。猿。山類に用之。岩も。一季は。二句にてもすつべし。一名殘の裏。六句なるべし。同此外應安之新式の如し。明應元年十二月",
+   "poems": [],
+   "lb": []
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "gunsho10-renga-honshiki",
+  "work": "連歌本式",
+  "yomi": "れんがほんしき",
+  "category": "歌学書",
+  "era": "",
+  "author": "",
+  "blocks": 1,
+  "chars": 283,
+  "poems": 0,
+  "editions": 1,
+  "updated": "2026-10-30",
+  "updated_at": "2026-10-30T00:23:03+09:00"
+ }
+}
